@@ -1,0 +1,6 @@
+.DS_Store
+web-nueva.zip
+data/*.sqlite
+data/*.log
+uploads/*
+!uploads/.gitkeep

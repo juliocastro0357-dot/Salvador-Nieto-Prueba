@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" fill="none">
+<defs><radialGradient id="sp" cx=".5" cy=".38" r=".6"><stop offset="0" stop-color="#f1d79b" stop-opacity=".55"/><stop offset=".55" stop-color="#d4af6a" stop-opacity=".12"/><stop offset="1" stop-color="#d4af6a" stop-opacity="0"/></radialGradient>
+<linearGradient id="mg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1d79b"/><stop offset="1" stop-color="#8a6a2e"/></linearGradient></defs>
+<rect width="900" height="1100" fill="url(#sp)"/>
+<g stroke="#d4af6a" stroke-opacity=".18" stroke-width="2"><line x1="450" y1="420" x2="-735" y2="232"/><line x1="450" y1="420" x2="-673" y2="-2"/><line x1="450" y1="420" x2="-566" y2="-218"/><line x1="450" y1="420" x2="-417" y2="-409"/><line x1="450" y1="420" x2="-233" y2="-566"/><line x1="450" y1="420" x2="-22" y2="-683"/><line x1="450" y1="420" x2="209" y2="-756"/><line x1="450" y1="420" x2="450" y2="-780"/><line x1="450" y1="420" x2="691" y2="-756"/><line x1="450" y1="420" x2="922" y2="-683"/><line x1="450" y1="420" x2="1133" y2="-566"/><line x1="450" y1="420" x2="1317" y2="-409"/><line x1="450" y1="420" x2="1466" y2="-218"/><line x1="450" y1="420" x2="1573" y2="-2"/><line x1="450" y1="420" x2="1635" y2="232"/></g>
+<circle cx="450" cy="440" r="330" stroke="#d4af6a" stroke-opacity=".35" stroke-width="2"/><circle cx="450" cy="440" r="380" stroke="#d4af6a" stroke-opacity=".15" stroke-width="1.5"/>
+<g transform="translate(450 0)">
+ <rect x="-95" y="230" width="190" height="290" rx="95" fill="url(#mg)"/>
+ <g stroke="#3a2a10" stroke-opacity=".55" stroke-width="3"><line x1="-95" y1="270" x2="95" y2="270"/><line x1="-95" y1="296" x2="95" y2="296"/><line x1="-95" y1="322" x2="95" y2="322"/><line x1="-95" y1="348" x2="95" y2="348"/><line x1="-95" y1="374" x2="95" y2="374"/><line x1="-95" y1="400" x2="95" y2="400"/><line x1="-95" y1="426" x2="95" y2="426"/><line x1="-95" y1="452" x2="95" y2="452"/><line x1="-95" y1="478" x2="95" y2="478"/><line x1="-95" y1="504" x2="95" y2="504"/><line x1="-70" y1="232" x2="-70" y2="518"/><line x1="-42" y1="232" x2="-42" y2="518"/><line x1="-14" y1="232" x2="-14" y2="518"/><line x1="14" y1="232" x2="14" y2="518"/><line x1="42" y1="232" x2="42" y2="518"/><line x1="70" y1="232" x2="70" y2="518"/></g>
+ <rect x="-120" y="470" width="240" height="38" rx="14" fill="#8a6a2e"/>
+ <path d="M-150 440 Q-150 600 0 600 Q150 600 150 440" stroke="#d4af6a" stroke-width="12" stroke-linecap="round"/>
+ <rect x="-10" y="598" width="20" height="260" fill="#8a6a2e"/>
+ <path d="M-170 880 Q0 820 170 880 L200 920 H-200 Z" fill="#8a6a2e"/>
+</g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10141c"/><stop offset="1" stop-color="#2b3b5e"/></linearGradient>
+<radialGradient id="v" cx=".5" cy=".45" r=".75"><stop offset=".5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".55"/></radialGradient></defs>
+<rect width="1000" height="1000" fill="url(#g)"/><path d="M260 700 V470 A240 240 0 0 1 740 470 V700" fill="none" stroke="#d4af6a" stroke-opacity="0.55" stroke-width="2"/><path d="M310 700 V470 A190 190 0 0 1 690 470 V700" fill="none" stroke="#d4af6a" stroke-opacity="0.45" stroke-width="2"/><path d="M360 700 V470 A140 140 0 0 1 640 470 V700" fill="none" stroke="#d4af6a" stroke-opacity="0.35" stroke-width="2"/><path d="M410 700 V470 A90 90 0 0 1 590 470 V700" fill="none" stroke="#d4af6a" stroke-opacity="0.25" stroke-width="2"/>
+<rect width="1000" height="1000" fill="url(#v)"/>
+<rect x="36" y="36" width="928" height="928" fill="none" stroke="#d4af6a" stroke-opacity=".6" stroke-width="2"/>
+<rect x="50" y="50" width="900" height="900" fill="none" stroke="#d4af6a" stroke-opacity=".25" stroke-width="1"/>
+<text x="500" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="30" letter-spacing="10" fill="#d4af6a">SALVADOR NIETO</text>
+<text x="500" y="766" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-style="italic" fill="#f1e8d4">Cartas Sin</text><text x="500" y="834" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-style="italic" fill="#f1e8d4">Remitente</text>
+<text x="500" y="925" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" letter-spacing="9" fill="#d4af6a" fill-opacity=".85">EL NOBLE DE LA BANDA</text>
+</svg>
